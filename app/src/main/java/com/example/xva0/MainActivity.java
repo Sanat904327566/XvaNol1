@@ -19,13 +19,14 @@ public class MainActivity extends AppCompatActivity {
 
         textView1 = findViewById(R.id.textView1);
         textView2 = findViewById(R.id.textview2);
-        textView3 = findViewById(R.id.textview2);
-        textView4 = findViewById(R.id.textView3);
-        textView5 = findViewById(R.id.textView4);
-        textView6 = findViewById(R.id.textview5);
-        textView7 = findViewById(R.id.textview6);
-        textView8 = findViewById(R.id.textview7);
-        textView9 = findViewById(R.id.textView8);
+        textView3 = findViewById(R.id.textView3);
+        textView4 = findViewById(R.id.textView4);
+        textView5 = findViewById(R.id.textview5);
+        textView6 = findViewById(R.id.textview6);
+        textView7 = findViewById(R.id.textview7);
+        textView8 = findViewById(R.id.textView8);
+        textView9 = findViewById(R.id.textView9);
     }
+
 
 }
