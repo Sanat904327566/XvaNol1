@@ -362,11 +362,8 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-
     }
-
     public void setClear() {
-
         new CountDownTimer(800, 1000) {
             @Override
             public void onTick(long millisUntilFinished) {
